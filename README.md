@@ -1,4 +1,4 @@
-[![Banner linuxuserin](https://raw.githubusercontent.com/linuxuserin/linuxuserin/master/banner.png)](https://linuxuserin.github.io)
+[![Banner linuxuserin](https://raw.githubusercontent.com/linuxuserin/linuxuserin/master/background-2020-10-26.gif)](https://linuxuserin.github.io)
 
 ### Hi there 👋
 
